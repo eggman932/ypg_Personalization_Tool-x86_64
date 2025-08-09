@@ -3,9 +3,10 @@ available at https://github.com/Yubico/yubikey-personalization-gui.
 
 BSD 2-Clause License
 
-Copyright (c) 2025, [eggman932]
-Copyright (c) 2010-2025, Yubico AB
+Copyright (c) 2025, eggman932  
+Copyright (c) 2010-2025, Yubico AB  
 All rights reserved.
+
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
